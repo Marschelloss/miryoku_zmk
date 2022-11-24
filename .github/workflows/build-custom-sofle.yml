@@ -12,7 +12,6 @@ jobs:
       shield: '["sofle_left nice_view_adapter nice_view","sofle_right"]'
       custom_config: '["#define MIRYOKU_KLUDGE_MOUSEKEYSPR"]'
       alphas: '["qwerty"]'
-      nav: '["vi"]'
       clipboard: '["mac"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y"]'
       branches: '["zmkfirmware/zmk/main ftc/zmk/mouse-ftc"]'
