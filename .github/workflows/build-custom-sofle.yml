@@ -15,4 +15,4 @@ jobs:
       alphas: '["qwerty"]'
       clipboard: '["mac"]'
       kconfig: '["CONFIG_ZMK_MOUSE=y","CONFIG_ZMK_RGB_UNDERGLOW=y"]'
-      branches: '["zmkfirmware/zmk/main Marschelloss/zmk-mouse/main"]'
+      branches: '["Marschelloss/zmk-mouse/main"]'
